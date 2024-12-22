@@ -1,0 +1,8 @@
+Transaction number: 1
+Customer: branko st 20 years, Phone Number: 123
+Bought the book: The Fire Gate for the price of 2700 RSD
+---------------------------------------------------------
+Transaction number: 2
+Customer: branko st 20 years, Phone Number: 123
+Bought the book: The Gates of Athens for the price of 2340 RSD
+---------------------------------------------------------
